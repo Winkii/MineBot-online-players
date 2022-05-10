@@ -12,7 +12,6 @@
 
 -->
 [![GitHub license](https://img.shields.io/github/license/Winkii/MineBot-online-players)](https://github.com/Winkii/MineBot-online-players)
-[![MIT License][license-shield]][https://img.shields.io/github/license/Winkii/MineBot-online-players]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
