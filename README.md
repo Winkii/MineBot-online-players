@@ -11,7 +11,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 -->
-https://img.shields.io/github/license/Winkii/MineBot-online-players
+[![MIT License][license-shield]][https://img.shields.io/github/license/Winkii/MineBot-online-players]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
