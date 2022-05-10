@@ -1,6 +1,3 @@
-# MineBot-online-players
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 [![Contributors][contributors-shield]][contributors-url]
