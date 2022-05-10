@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 -->
-[![GitHub license](https://img.shields.io/github/license/Winkii/MineBot-online-players)](https://github.com/Winkii/MineBot-online-players)
+![GitHub](https://img.shields.io/github/license/Winkii/MineBot-online-players?color=l)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
